@@ -1,0 +1,3 @@
+(faktorial 5)
+(faktorial 10)
+(faktorial 1000)
